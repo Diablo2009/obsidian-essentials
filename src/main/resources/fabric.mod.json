@@ -3,15 +3,15 @@
 	"id": "obsidian_essentials",
 	"version": "${version}",
 	"name": "Obsidian Essentials",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Obsidian Essentials is a mod that introduces new tools, and new ways to use obsidian.",
 	"authors": [
-		"Taskforce!"
+		"Taskforce Modding"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Diablo2009/obsidian-essentials",
+		"sources": "https://github.com/Diablo2009/obsidian-essentials"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/obsidian_essentials/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -33,8 +33,5 @@
 		"minecraft": "~1.20.1",
 		"java": ">=17",
 		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }

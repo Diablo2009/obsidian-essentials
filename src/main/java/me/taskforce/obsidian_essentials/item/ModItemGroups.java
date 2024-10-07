@@ -18,6 +18,11 @@ public class ModItemGroups {
                         entries.add(ModItems.OBSIDIAN_DUST);
                         entries.add(ModItems.OBSIDIAN_CRUSHER);
                         entries.add(ModItems.OBSIDIAN_FUEL);
+                        entries.add(ModItems.OBSIDIAN_PICKAXE);
+                        entries.add(ModItems.OBSIDIAN_AXE);
+                        entries.add(ModItems.OBSIDIAN_HOE);
+                        entries.add(ModItems.OBSIDIAN_SHOVEL);
+                        entries.add(ModItems.OBSIDIAN_SWORD);
                         entries.add(ModBlocks.OBSIDIAN_DUST_BLOCK);
                         entries.add(ModBlocks.OBSIDIAN_INFUSED_STONE);
                     }).build());
