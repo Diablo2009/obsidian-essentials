@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "obsidian_essentials:obsidian_crusher"
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "obsidian_essentials:obsidian_dust"
+  }
+}

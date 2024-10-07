@@ -20,6 +20,10 @@ public class ModItems {
     public static final Item OBSIDIAN_SHOVEL = registerItem("obsidian_shovel", new ShovelItem(ModToolMaterial.OBSIDIAN, 1, 1f, new FabricItemSettings()));
     public static final Item OBSIDIAN_SWORD = registerItem("obsidian_sword", new SwordItem(ModToolMaterial.OBSIDIAN, 7, 4f, new FabricItemSettings()));
     public static final Item OBSIDIAN_HOE = registerItem("obsidian_hoe", new HoeItem(ModToolMaterial.OBSIDIAN, 0, 0f, new FabricItemSettings()));
+    public static final Item OBSIDIAN_HELM = registerItem("obsidian_helm", new ArmorItem(ModArmorMaterials.OBSIDIAN, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item OBSIDIAN_CHEST = registerItem("obsidian_chest", new ArmorItem(ModArmorMaterials.OBSIDIAN, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item OBSIDIAN_LEGS = registerItem("obsidian_legs", new ArmorItem(ModArmorMaterials.OBSIDIAN, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item OBSIDIAN_BOOTS = registerItem("obsidian_boots", new ArmorItem(ModArmorMaterials.OBSIDIAN, ArmorItem.Type.BOOTS, new FabricItemSettings()));
 
     // Register Items, used in Item Definitions
     private static Item registerItem(String name, Item item) {

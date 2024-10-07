@@ -23,6 +23,10 @@ public class ModItemGroups {
                         entries.add(ModItems.OBSIDIAN_HOE);
                         entries.add(ModItems.OBSIDIAN_SHOVEL);
                         entries.add(ModItems.OBSIDIAN_SWORD);
+                        entries.add(ModItems.OBSIDIAN_BOOTS);
+                        entries.add(ModItems.OBSIDIAN_LEGS);
+                        entries.add(ModItems.OBSIDIAN_CHEST);
+                        entries.add(ModItems.OBSIDIAN_HELM);
                         entries.add(ModBlocks.OBSIDIAN_DUST_BLOCK);
                         entries.add(ModBlocks.OBSIDIAN_INFUSED_STONE);
                     }).build());
