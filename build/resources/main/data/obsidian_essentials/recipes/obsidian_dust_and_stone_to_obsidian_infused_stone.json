@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#@",
+    "@#"
+  ],
+  "key": {
+    "#": {
+      "item": "obsidian_essentials:obsidian_dust"
+    },
+    "@": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "obsidian_essentials:obsidian_infused_stone",
+    "count": 2
+  }
+}

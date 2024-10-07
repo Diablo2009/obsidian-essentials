@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "obsidian_essentials:obsidian_dust"
+    }
+  },
+  "result": {
+    "item": "obsidian_essentials:obsidian_dust_block",
+    "count": 1
+  }
+}

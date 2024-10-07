@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "obsidian_essentials:block/obsidian_dust_block"
+    }
+  }
+}
