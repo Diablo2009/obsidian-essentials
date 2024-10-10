@@ -1,4 +1,4 @@
-// 1.20.1	2024-10-07T13:10:00.809703043	Obsidian Essentials/Model Definitions
+// 1.20.1	2024-10-10T10:05:06.520397537	Obsidian Essentials/Model Definitions
 3079a682f6699d10f247ca36d6e998e8c2a34e05 assets/obsidian_essentials/models/item/obsidian_legs_copper_trim.json
 a5729eb305d883fbdcfd9c74c551c8cb7d0435db assets/obsidian_essentials/models/item/obsidian_boots_quartz_trim.json
 dcbbbaed28b8ad964d5c7da6c531a5f62e05fca6 assets/obsidian_essentials/models/item/obsidian_legs_amethyst_trim.json
@@ -48,8 +48,8 @@ a951407de04f2546a6537636409dec42b1b655a0 assets/obsidian_essentials/models/block
 2b699fc8e0db2552810b1fafa0975cc2053e6a35 assets/obsidian_essentials/models/item/obsidian_fuel.json
 daf8ecca88222cab3a94343b9f8f438635221460 assets/obsidian_essentials/models/item/obsidian_helm_netherite_trim.json
 ff5a98c442b8d11627e0f9d32436580026d697b2 assets/obsidian_essentials/models/item/obsidian_chest_quartz_trim.json
-0109d8f518070904578fb74f86377bd5ca1731cb assets/obsidian_essentials/models/item/obsidian_axe.json
 1fbb63239225e39ef1ee628fc9ac8a8dde9e83b1 assets/obsidian_essentials/models/item/obsidian_hoe.json
+0109d8f518070904578fb74f86377bd5ca1731cb assets/obsidian_essentials/models/item/obsidian_axe.json
 fc08882bf7394b029f0b25ff0849e72611440043 assets/obsidian_essentials/models/item/obsidian_boots_iron_trim.json
 ffc5e77fbfead8825e22e5676f148a4d126a9b9c assets/obsidian_essentials/models/item/obsidian_helm_redstone_trim.json
 f1e264ab13d9def67cd45667b07e2bc0b55a93df assets/obsidian_essentials/models/item/obsidian_shovel.json

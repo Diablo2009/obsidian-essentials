@@ -1,5 +1,5 @@
-[13:09:49] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
-[13:09:50] [main/INFO] (FabricLoader) Loading 46 mods:
+[10:04:52] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
+[10:04:52] [main/INFO] (FabricLoader) Loading 46 mods:
 	- fabric-api 0.92.2+1.20.1
 	- fabric-api-base 0.4.31+1802ada577
 	- fabric-api-lookup-api-v1 1.6.36+1802ada577
@@ -46,25 +46,25 @@
 	- minecraft 1.20.1
 	- mixinextras 0.4.1
 	- obsidian_essentials 0.0.2-dev-1.20.1
-[13:09:50] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/deck/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/51ee0a44ab05f6fddd66b09e66b3a16904f9c55d/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[13:09:50] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[13:09:50] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_16
-[13:09:50] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
-[13:09:51] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[13:10:00] [main/INFO] (obsidian_essentials) Hello Fabric world!
-[13:10:00] [main/INFO] (obsidian_essentials) Registering Item Groups for obsidian_essentials
-[13:10:00] [main/INFO] (obsidian_essentials) Registering Mod Items for obsidian_essentials
-[13:10:00] [main/INFO] (obsidian_essentials) Registering Mod Blocks for obsidian_essentials
-[13:10:00] [main/INFO] (FabricDataGenHelper) Running data generator for obsidian_essentials
-[13:10:00] [main/INFO] (Minecraft) Starting provider: Obsidian Essentials/Tags for minecraft:block
-[13:10:00] [main/INFO] (Minecraft) Obsidian Essentials/Tags for minecraft:block finished after 405 ms
-[13:10:00] [main/INFO] (Minecraft) Starting provider: Obsidian Essentials/Tags for minecraft:item
-[13:10:00] [main/INFO] (Minecraft) Obsidian Essentials/Tags for minecraft:item finished after 2 ms
-[13:10:00] [main/INFO] (Minecraft) Starting provider: Obsidian Essentials/Block Loot Tables
-[13:10:00] [main/INFO] (Minecraft) Obsidian Essentials/Block Loot Tables finished after 50 ms
-[13:10:00] [main/INFO] (Minecraft) Starting provider: Obsidian Essentials/Model Definitions
-[13:10:00] [main/INFO] (Minecraft) Obsidian Essentials/Model Definitions finished after 72 ms
-[13:10:00] [main/INFO] (Minecraft) Starting provider: Obsidian Essentials/Recipes
-[13:10:00] [main/INFO] (Minecraft) Obsidian Essentials/Recipes finished after 29 ms
-[13:10:00] [main/INFO] (Minecraft) All providers took: 564 ms
-[13:10:00] [main/INFO] (Minecraft) Caching: total files: 89, old count: 0, new count: 90, removed stale: 0, written: 89
+[10:04:52] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/deck/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/51ee0a44ab05f6fddd66b09e66b3a16904f9c55d/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[10:04:53] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[10:04:53] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_16
+[10:04:53] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[10:04:54] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[10:05:05] [main/INFO] (obsidian_essentials) Hello Fabric world!
+[10:05:05] [main/INFO] (obsidian_essentials) Registering Item Groups for obsidian_essentials
+[10:05:05] [main/INFO] (obsidian_essentials) Registering Mod Items for obsidian_essentials
+[10:05:05] [main/INFO] (obsidian_essentials) Registering Mod Blocks for obsidian_essentials
+[10:05:05] [main/INFO] (FabricDataGenHelper) Running data generator for obsidian_essentials
+[10:05:05] [main/INFO] (Minecraft) Starting provider: Obsidian Essentials/Tags for minecraft:block
+[10:05:06] [main/INFO] (Minecraft) Obsidian Essentials/Tags for minecraft:block finished after 507 ms
+[10:05:06] [main/INFO] (Minecraft) Starting provider: Obsidian Essentials/Tags for minecraft:item
+[10:05:06] [main/INFO] (Minecraft) Obsidian Essentials/Tags for minecraft:item finished after 3 ms
+[10:05:06] [main/INFO] (Minecraft) Starting provider: Obsidian Essentials/Block Loot Tables
+[10:05:06] [main/INFO] (Minecraft) Obsidian Essentials/Block Loot Tables finished after 62 ms
+[10:05:06] [main/INFO] (Minecraft) Starting provider: Obsidian Essentials/Model Definitions
+[10:05:06] [main/INFO] (Minecraft) Obsidian Essentials/Model Definitions finished after 70 ms
+[10:05:06] [main/INFO] (Minecraft) Starting provider: Obsidian Essentials/Recipes
+[10:05:06] [main/INFO] (Minecraft) Obsidian Essentials/Recipes finished after 26 ms
+[10:05:06] [main/INFO] (Minecraft) All providers took: 673 ms
+[10:05:06] [main/INFO] (Minecraft) Caching: total files: 89, old count: 89, new count: 90, removed stale: 0, written: 0
